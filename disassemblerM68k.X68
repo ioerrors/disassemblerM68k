@@ -1,6 +1,6 @@
 *-----------------------------------------------------------
 * Title      :  Disassembler
-* Written by :  Sesario Imanputra, Zachary Liong, Micha Rice, Marci Ma
+* Written by :  Sesario Imanputra, Zachary Liong, Micah Rice, Marci Ma
 * Date       :  
 * Description: 
 *-----------------------------------------------------------
